@@ -1,13 +1,3 @@
-#HTML5 flappy bird
+#PROJETO INTERDISCIPLINAR 2015-1
 
-play here: http://hyspace.io/flappy/
-
-based on http://uralozden.com/flappy/
-
-##License
-
-MIT License
-
-##Copyright
-
-THE IMAGES' AND SOUNDS' COPYRIGHT IS OWNED BY THE ORIGINAL GAME'S AUTHOR.
+O projeto utiliza como base o flappybird HTML5 feito pelo hyspace sobre licensa MIT.
